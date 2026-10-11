@@ -8,6 +8,10 @@ The project recreates and extends operational questions encountered within NHS c
 
 The aim was to identify opportunities to streamline patient validation, reduce avoidable administrative and clinical activity, monitor vaccination performance and improve visibility of workforce and vaccine utilisation.
 
+## Dashboard
+
+![Power BI Dashboard](screenshots/dashboard_overview.png)
+
 ## Business Problem
 
 District Nursing teams provide flu vaccinations to eligible housebound patients as part of routine community nursing activity.
