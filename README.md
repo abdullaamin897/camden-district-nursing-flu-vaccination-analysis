@@ -165,6 +165,41 @@ To avoid inflated activity counts, event tables were either analysed separately 
 
 ### Patient Validation
 
+The analysis identified 462 patients in the validated eligible cohort.
+
+A number of records required review or exclusion before vaccination activity could proceed. The most common validation issue was patients already recorded as vaccinated (44 patients), followed by patients not on the active District Nursing caseload (25) and records requiring further review (23).
+
+This highlights the potential value of stronger validation earlier in the vaccination pathway.
+
+### GP Practice Variation
+
+Validation issue rates varied across GP practices.
+
+Somers Town Community Practice had the highest issue rate at 30.14%, followed by Canal Park Practice at 29.17%.
+
+These rates identify practices where a greater proportion of records required review or exclusion, but they do not by themselves demonstrate poor GP data quality. The underlying issue types and patient volumes should also be considered.
+
+### Vaccination Pathway
+
+The dashboard identified 97 patients who remained outstanding and showed an overall successful visit rate of 80.6%.
+
+Unable To Contact and other temporary pathway outcomes should therefore be reviewed throughout the vaccination period rather than automatically treated as final outcomes.
+
+### Workforce Activity
+
+Central 1 recorded the highest vaccination activity relative to vaccination-trained WTE at 15.5 vaccinations per trained WTE.
+
+Central 2 and South 2 both recorded 15.0, while South 1 recorded 14.2.
+
+These figures represent capacity-adjusted vaccination activity and should not be interpreted as a complete measure of team productivity, as wider District Nursing workload, travel requirements and patient complexity are not fully captured.
+
+### Vaccine Stock
+
+Overall stock utilisation was 68.0%, with a wastage rate of 2.6%.
+
+Stock discrepancies and wastage should be investigated through batch-level reconciliation before conclusions are made about vaccine loss or inefficient stock management.
+### Patient Validation
+
 The validation stage identified a number of records requiring further review before vaccination activity could proceed.
 
 Issues included patients who were not on the active District Nursing caseload, patients already vaccinated, unclear eligibility and patients whose housebound status required further review.
