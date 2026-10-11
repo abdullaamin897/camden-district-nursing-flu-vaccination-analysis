@@ -10,7 +10,7 @@ The aim was to identify opportunities to streamline patient validation, reduce a
 
 ## Dashboard
 
-![Power BI Dashboard](screenshots/dashboard_overview.png)
+![Power BI Dashboard](powerbi/screenshots/dashboard_overview.png)
 
 ## Business Problem
 
